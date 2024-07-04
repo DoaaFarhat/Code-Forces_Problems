@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713011769 source:d:\courses\embedded system\tasks\theatre square\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

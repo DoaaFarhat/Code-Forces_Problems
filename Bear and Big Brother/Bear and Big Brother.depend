@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714852386 source:d:\courses\embedded system\tasks\bear and big brother\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

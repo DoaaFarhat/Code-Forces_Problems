@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714660258 source:d:\courses\embedded system\tasks\beautiful matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+
